@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaya Kumar Behera</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
-<img src="![image](https://user-images.githubusercontent.com/106064518/207082214-5aa304ca-d6a9-45c0-8d3a-df94bb97b737.png)
-" alt="gif_ajaya"/>
+<img src="https://user-images.githubusercontent.com/106064518/207082214-5aa304ca-d6a9-45c0-8d3a-df94bb97b737.png" alt="gif_ajaya"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayahara&label=Profile%20views&color=0e75b6&style=flat" alt="ajayahara" /> </p>
 
