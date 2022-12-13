@@ -17,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
             <li>
-                <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />Linked In</a>
+                <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />Linked In</a>
             </li>
             <li>
-            <a href="https://codesandbox.com/https://codesandbox.io/u/ajayahara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ajayahara" height="20" width="20" />Codesandbox</a>
+            <a href="https://codesandbox.com/https://codesandbox.io/u/ajayahara" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="https://codesandbox.io/u/ajayahara" height="20" width="20" />Codesandbox</a>
             </li>
             <li>
                 Mobile:+91 6370014498
@@ -32,9 +32,76 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <ul>
+            <li>
+                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                <span>Bootstrap</span>
+                <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="20" height="20"/>
+                 </a>
+            </li>
+            <li>
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                    <span>CSS3</span>
+                     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css3" width="20" height="20"/>
+                </a>
+            </li>
+            <li>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+            <span>Git</span>
+            <img src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png" alt="git" width="20" height="20"/> 
+            </a> 
+            </li>
+            <li>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <span>Html:5</span>
+            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" width="20" height="20"/>
+            </a> 
+            </li>
+            <li>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <span>Javascript</span>
+                 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="20" height="20"/> 
+            </a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <span>MongoDB</span>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_HmAt_OMI6pNjF9yjSaEMA7QwG86RmF_eRlswIU&s" alt="mongodb" width="20" height="20"/> 
+            </a>  
+            </li>
+            <li>
+            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+            <span>NodeJs</span>
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" width="20" height="20"/> 
+            </a>
+            </li>
+            <li>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+            <span>React</span>
+            <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="react" width="20" height="20"/> 
+            </a> 
+            </li>
+            <li>
+            <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+            <span>Redux</span>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhGoDZOt4pfspBv9Wl8XrVkr5mtQtTV2-ZbCBW8hVAA&s" alt="redux" width="20" height="20"/> 
+            </a> 
+            </li>
+            <li>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <span>Typescript</span> 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWV4fjIuJXh6985QvTgh4JlVqlNyiFHcLfejjvI32ew&s" alt="typescript" width="20" height="20"/> 
+            </a> 
+            </li>
+        </ul>
+
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
+ <br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
+ <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
 
 
