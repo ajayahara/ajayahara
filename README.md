@@ -15,12 +15,13 @@
 - ⚡ Fun fact **I think You are Looking for Me**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
 <ul>
             <li>
-                <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />Linked In</a>
+                <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />ajaya-kumar-behera</a>
             </li>
             <li>
-            <a href="https://codesandbox.com/https://codesandbox.io/u/ajayahara" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="https://codesandbox.io/u/ajayahara" height="20" width="20" />Codesandbox</a>
+            <a href="https://codesandbox.com/https://codesandbox.io/u/ajayahara" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="https://codesandbox.io/u/ajayahara" height="20" width="20" />ajayahara</a>
             </li>
             <li>
                 Mobile:+91 6370014498
@@ -96,12 +97,13 @@
             </a> 
             </li>
         </ul>
+<h2 align="left" >Github Stats:-</h2>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
+ <br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
+ <br />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
- <br />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
- <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
 
 
