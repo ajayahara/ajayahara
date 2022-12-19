@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I think You are Looking for Me**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
+
 <ul>
             <li>
                 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />ajaya-kumar-behera</a>
@@ -33,6 +33,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+ <img align="right" width="600" height="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
+
   <ul>
             <li>
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -104,6 +106,8 @@
  <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
  <br />
+<h2 align="left" >Github Activity Graph:-</h2>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ajayahara&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
