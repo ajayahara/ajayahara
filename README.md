@@ -33,7 +33,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
- <img align="right" width="600" height="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
+ <img align="right" width="600" height="300" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
 
   <ul>
             <li>
@@ -101,8 +101,8 @@
         </ul>
 <h2 align="left" >Github Stats:-</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
  <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
  <br />
