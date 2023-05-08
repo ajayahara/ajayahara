@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👨‍💻 All of my projects are available at [ajayahara.github.io](https://ajayahara.github.io/)
+- 👨‍💻 All of my projects are available at <a herf="https://ajayahara.github.io/">https://ajayahara.github.io/</a>
 
 - 💬 Ask me about **React, Javascript, Html And CSS**
 
