@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajaya Kumar Behera</h1>
 A passionate web developer with experience in creating web applications and a strong focus on full-stack development. Love to code and solve problems with clean and efficient solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayahara&label=Profile%20views&color=0e75b6&style=flat" alt="ajayahara" /> </p>
+[![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-15-brightgreen)](https://github.com/ajayahara?tab=repositories)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -47,6 +48,13 @@ Here are some of the technologies and tools I work with:
     <img src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="GitHub Stats" style="width:200px; height: 100px;" />
 </div>
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajayahara)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📈 GitHub Activity Graph
 
 [![Ajaya`s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajayahara&theme=github)](https://github.com/ajayahara/github-readme-activity-graph)
+
+
+
