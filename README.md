@@ -1,112 +1,52 @@
 <h1 align="center">Hi 👋, I'm Ajaya Kumar Behera</h1>
-<h3 align="center">A Passionate Full Stack Web Developer From India</h3>
-<img src="https://www.shootdartsolutions.com/img/service/web-design.gif" alt="gif_ajaya"/>
-
+A passionate web developer with experience in creating web applications and a strong focus on full-stack development. Love to code and solve problems with clean and efficient solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayahara&label=Profile%20views&color=0e75b6&style=flat" alt="ajayahara" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at <a herf="https://ajayahara.github.io/">https://ajayahara.github.io/</a>
 
-- 💬 Ask me about **React, Javascript, Html And CSS**
+- 💬 Ask me about **React, Javascript, HTML And CSS**
 
 - 📫 How to reach me **abak00350@gmail.com**
 
 - ⚡ Fun fact **I think You are Looking for Me**
+## 🔧 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
+Here are some of the technologies and tools I work with:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="height: 35px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="height: 35px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="height: 35px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="height: 35px;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" alt="Chakra UI" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height: 35px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 35px;">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 35px;">
+</p>
 
-<ul>
-            <li>
-                <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-linkedin-icon-112-thumb.png" alt="https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/" height="20" width="20" />ajaya-kumar-behera</a>
-            </li>
-            <li>
-            <a href="https://codesandbox.com/https://codesandbox.io/u/ajayahara" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="https://codesandbox.io/u/ajayahara" height="20" width="20" />ajayahara</a>
-            </li>
-            <li>
-                Mobile:+91 6370014498
-            </li>
-            <li>
-                Email:-abak00350@gmail.com
-            </li>
-        </ul>
+##  📫Let's Connect
 
+- LinkedIn :[ajayahara](https://www.linkedin.com/in/ajaya-kumar-behera-a56549237/)
+- Portfolio: [https://ajayahara.github.io](https://ajayahara.github.io/)
+- Email: [abak00350@gmail.com](mailto:abak00350@example.com)
+- Mobile: +91 6370014498
+- What's App: +91 7684889098
 
-<h3 align="left">Languages and Tools:</h3>
- <img align="right" width="600" height="300" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="ajayahara" />
+## 📊 GitHub Stats
 
-  <ul>
-            <li>
-                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-                <span>Bootstrap</span>
-                <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="20" height="20"/>
-                 </a>
-            </li>
-            <li>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <span>CSS3</span>
-                     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css3" width="20" height="20"/>
-                </a>
-            </li>
-            <li>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <span>Git</span>
-            <img src="https://cdn-icons-png.flaticon.com/128/1240/1240970.png" alt="git" width="20" height="20"/> 
-            </a> 
-            </li>
-            <li>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <span>Html:5</span>
-            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html5" width="20" height="20"/>
-            </a> 
-            </li>
-            <li>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <span>Javascript</span>
-                 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="20" height="20"/> 
-            </a>
-            </li>
-        </ul>
-        <ul>
-            <li>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <span>MongoDB</span>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_HmAt_OMI6pNjF9yjSaEMA7QwG86RmF_eRlswIU&s" alt="mongodb" width="20" height="20"/> 
-            </a>  
-            </li>
-            <li>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <span>NodeJs</span>
-            <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" width="20" height="20"/> 
-            </a>
-            </li>
-            <li>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-            <span>React</span>
-            <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="react" width="20" height="20"/> 
-            </a> 
-            </li>
-            <li>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-            <span>Redux</span>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhGoDZOt4pfspBv9Wl8XrVkr5mtQtTV2-ZbCBW8hVAA&s" alt="redux" width="20" height="20"/> 
-            </a> 
-            </li>
-            <li>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <span>Typescript</span> 
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWV4fjIuJXh6985QvTgh4JlVqlNyiFHcLfejjvI32ew&s" alt="typescript" width="20" height="20"/> 
-            </a> 
-            </li>
-        </ul>
-<h2 align="left" >Github Stats:-</h2>
+<div  align="center" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width:33.3%; height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="GitHub Streak" style="width: 33.3%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="GitHub Stats" style="width: 33.3%; height: 200px;" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="ajayahara" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="ajayahara" /></p>
- <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="ajayahara"  /></p>
- <br />
-<h2 align="left" >Github Activity Graph:-</h2>
+## 📈 GitHub Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ajayahara&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ajaya`s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajayahara&theme=github)](https://github.com/ajayahara/github-readme-activity-graph)
