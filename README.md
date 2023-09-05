@@ -1,9 +1,8 @@
-<div style="width: 100%;">
-  <img src="wave.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+ <div style="width: 100%;">
+        <img src="https://github.com/ajayahara/ajayahara/blob/main/wave.svg" style="width: 100%;" alt="Click to see the source">
+  </div>
 A passionate web developer with experience in creating web applications and a strong focus on full-stack development. Love to code and solve problems with clean and efficient solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayahara&label=Profile%20views&color=0e75b6&style=flat" alt="ajayahara" /> </p>
-[![GitHub Repositories](https://img.shields.io/badge/GitHub%20Repositories-15-brightgreen)](https://github.com/ajayahara?tab=repositories)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
