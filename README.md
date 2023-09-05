@@ -42,9 +42,9 @@ Here are some of the technologies and tools I work with:
 ## 📊 GitHub Stats
 
 <div  align="center" style="width:100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width:33.3%; height: 200px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="GitHub Streak" style="width: 33.3%; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="GitHub Stats" style="width: 33.3%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayahara&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width:200%; height: 100px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayahara&" alt="GitHub Streak" style="width:200%; height: 100px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ajayahara&show_icons=true&locale=en" alt="GitHub Stats" style="width:200%; height: 100px;" />
 </div>
 
 ## 📈 GitHub Activity Graph
