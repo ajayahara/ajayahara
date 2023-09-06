@@ -1,4 +1,4 @@
-<img src="wave.svg" style="width: 100%;" alt="Click to see the source">
+<img src="https://64f7efa936356b299342ddf7--sweet-faloodeh-181e30.netlify.app/wave.svg" style="width: 100%;" alt="Click to see the source">
 A passionate web developer with experience in creating web applications and a strong focus on full-stack development. Love to code and solve problems with clean and efficient solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayahara&label=Profile%20views&color=0e75b6&style=flat" alt="ajayahara" /> </p>
 
