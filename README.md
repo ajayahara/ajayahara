@@ -33,6 +33,7 @@ Here are some of the technologies and tools I work with:
 ## 💼 Experience
 
 - SDE Intern | Masai School | Oct 2023 - April 2024
+- SDE-1 Full Time | Zeuron AI | June 2024 - Jan 2025
 
 ##  📫Let's Connect
 
